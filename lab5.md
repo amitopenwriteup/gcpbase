@@ -19,7 +19,8 @@ This guide documents the steps to provision a **Google Cloud Compute Instance** 
 
 ```bash
 cd ..
-git clone https://github.com/amitopenwriteup/gcpinstance.git
+cd base
+mkdir gcpinstance
 cd gcpinstance
 ```
 
